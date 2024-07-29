@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445348950839",
+    "project_id": "layer-demo-52de3",
+    "storage_bucket": "layer-demo-52de3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445348950839:android:ac6b5eac6f1788cf3220b2",
+        "android_client_info": {
+          "package_name": "com.example.layer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLbGpEoDG1UCvI8oivVRVS9RW_9fS9vl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
